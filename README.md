@@ -1,4 +1,12 @@
 # cpuid
+
+## usage
+
+```sh
+go build && ./cupid
+```
+## output
+
 ```json
 {
   "Cache.L1": 32768,
